@@ -38,12 +38,12 @@ ___
 
 ___
 
-## Componentes del proyecto / Other project microservices
+## Componentes del proyecto / Project components
 
-* [financial-transaction-generator]()
-* [financial-transaction-processor]()
-* [financial-movement-service]()
-* [financial-detect-fraud-service]()
+* [financial-transaction-generator](https://github.com/mspano-web/financial-transaction-generator) (Actual/Current)
+* [financial-transaction-processor](https://github.com/mspano-web/financial-transaction-processor)
+* [financial-movement-service](https://github.com/mspano-web/financial-movement-service)
+* [financial-detect-fraud-service](https://github.com/mspano-web/financial-detect-fraud-service)
 
 ___
 
