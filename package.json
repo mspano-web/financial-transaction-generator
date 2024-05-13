@@ -1,0 +1,16 @@
+{
+  "name": "financial-transaction-generator",
+  "version": "1.0.0",
+  "description": "simulator process, generator of automatic and massive financial transactions",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcelo Spano",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "faker": "^5.5.3"
+  }
+}
